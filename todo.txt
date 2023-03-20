@@ -1,0 +1,2 @@
+bpmn-js Custom Modeler    property box
+https://codesandbox.io/s/compassionate-euclid-jeq9bo?file=/src/index.js
