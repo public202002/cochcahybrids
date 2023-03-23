@@ -10,7 +10,7 @@ export default define({
   count: 0,
   render: ({ count }) => html`
     <button onclick="${increaseCount}">
-      Count: ${count} ${console.log("dddddebug " + Date.now().toString())}
+      Count: ${count} ${console.log("dddddebug " + Date.now().toString())} //suptam
     </button>
   `
 });
